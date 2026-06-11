@@ -2,6 +2,8 @@
 Legal Defender AI is an AI-powered legal assistance chatbot that helps users understand legal matters, explore possible options, and generate legal document drafts through natural language conversations. It is designed to make legal information more accessible by simplifying complex legal concepts and guiding users through common legal situations.
 The chatbot can assist with topics such as tenant-landlord disputes, consumer complaints, employment concerns, contract-related questions, and general legal procedures. Users can describe their situation in plain language, and the AI analyzes the information, identifies potential legal issues, and provides structured guidance. When important details are missing, the system asks follow-up questions to improve the accuracy and relevance of its responses.
 
+https://chatbot.getmindpal.com/personal-legal-defender-2a5
+
 Key Features
 Explains legal concepts in simple, easy-to-understand language
 Identifies potential legal issues from user descriptions
